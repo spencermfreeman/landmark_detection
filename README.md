@@ -4,6 +4,10 @@
   
 Results of First Testing Phase:
 
+- 69/70 images were correctly placed by landmark location (minimal adjsutment required, greatly improved from initial pipeline).
+- 1 image, which included a large portion of a bonding pad was not properly located.
+- A systematic shift was observed in images (between the chip design and image placement, quick to fix within KLayout but should not happen consistently).
+
 <img src= './static/5_3result.png'>
 
 <img src= './static/7_2result.png'>
