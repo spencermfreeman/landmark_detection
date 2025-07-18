@@ -1,5 +1,5 @@
 # landmark_detection
-- DISCALAIMER: This is not the actual project repository, just a demonstration of my improvements, much of the full repository is not mine to distribute/take credit for.
+- DISCALAIMER: This is not the actual project repository, just a demonstration of my improvements, much of the full repository is not mine to distribute.
 - Making use of Scikit-Image Template Matching functionality to determine landmark coordinates in SEM TIF images.
 - For use in KLayout lithography mapping auto-align modules.
   
